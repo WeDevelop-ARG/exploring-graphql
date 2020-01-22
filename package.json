@@ -1,0 +1,21 @@
+{
+  "name": "exploring-graphql",
+  "version": "1.0.0",
+  "description": "Exploring GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/node": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "apollo-server-express": "^2.9.16",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "type": "module"
+}
